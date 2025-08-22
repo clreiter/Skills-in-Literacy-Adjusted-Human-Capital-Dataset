@@ -1,3 +1,4 @@
-*.RData filter=lfs diff=lfs merge=lfs -text
+*RData filter=lfs diff=lfs merge=lfs -text
 *.sav filter=lfs diff=lfs merge=lfs -text
 Input/WIC_reconstruction.csv filter=lfs diff=lfs merge=lfs -text
+*.RData filter=lfs diff=lfs merge=lfs -text
