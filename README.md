@@ -23,7 +23,6 @@ The full dataset is available via Zenodo:
   - `6_slamys.R`  
 
 - **Input data** (18 files, in `/Input/`) used for the construction of SAFs (Skill Adjustment Factors) and SLAMYS estimates.
-- 
 - **Output folder** (`/Output/`): created by the scripts when run. It is empty by default.  
 
 ---
