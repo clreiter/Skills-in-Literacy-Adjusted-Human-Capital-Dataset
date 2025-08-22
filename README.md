@@ -55,7 +55,7 @@ If you use this code or dataset, please cite both:
   > Potančoková, M., Reiter, C., & Spiegeler Castaneda, I. (2025). *Skills-in-Literacy Adjusted Human Capital Dataset (SLAMYS)* (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16902375  
 
 - **The conceptual foundation**:  
-  > Lutz, W., Goujon, A., Samir, K. C., & Sanderson, W. (2021). *Quantifying human capital: Why, how, and what for*. *Proceedings of the National Academy of Sciences*, 118(21), e2015826118. https://doi.org/10.1073/pnas.2015826118  
+  > Lutz, W,. Reiter, C., Özdemir, C., Yildiz, C, Guimaraes, R., & Goujon, A. (2021). *Skills-adjusted human capital shows rising global gap*. *Proceedings of the National Academy of Sciences*, 118 (7) e2015826118, https://doi.org/10.1073/pnas.2015826118.
 
 ---
 
